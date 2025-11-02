@@ -1,4 +1,4 @@
-<!-- ✅ TOP BANNER -->
+
 <p align="center">
   <img src="https://i.ibb.co/9tZws9R/animated-banner.gif" alt="Rameel Tanveer Banner" width="100%" />
 </p>
@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Rameel Tanveer</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
-<!-- ✅ NEW CODER GIF -->
+
 <img align="right" alt="Coding" width="350" src="https://dl.dropboxusercontent.com/scl/fi/mchan1e1zcew6ap8x1lh4/man-is-a-coder-animation-gif-download-8957689.gif?rlkey=g19o5zbei0lzo797bqshvgy2w&st=m4rid5jm">
 
 ---
@@ -87,8 +87,6 @@ Reusable components & modern design.
 <a href="https://www.instagram.com/itxrameelrt05" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
-
-<!-- ✅ NEW X LOGO (WORKING) -->
 <a href="https://x.com/itxrameelrt" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" width="30" />
 </a>
@@ -125,13 +123,9 @@ Reusable components & modern design.
 <a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
 </a>
-
-<!-- ✅ REACT WHITE-VISIBLE VERSION -->
 <a href="https://react.dev/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 </a>
-
-<!-- ✅ NEXTJS WHITE-VISIBLE VERSION -->
 <a href="https://nextjs.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
 </a>
