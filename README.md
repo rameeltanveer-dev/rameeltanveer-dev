@@ -14,12 +14,12 @@
 ⚛️ ReactJS | NextJS | Redux Toolkit  
 🗄️ NodeJS | ExpressJS | MongoDB | PostgreSQL | Sequelize  
 🛠️ GitHub | Docker | Netlify | Vercel | CI/CD  
-✨ Passionate about coding, creativity and building seamless digital experiences.
+✨ Passionate about coding, creativity, and building seamless digital experiences.
 
 ---
 
 ## 🌍 Live Portfolio  
-🔗 https://portfolio-iota-opal-e1qd95izyn.vercel.app/
+🔗 **https://portfolio-iota-opal-e1qd95izyn.vercel.app/**
 
 ---
 
@@ -32,10 +32,17 @@ UI/UX Focused — Smooth animations & user experiences.
 
 ### 🛠 Backend Expertise  
 NodeJS • ExpressJS • REST APIs • Authentication  
-Secure and scalable architectures.
+Secure & scalable architectures.
 
 ### 🗄 Databases  
 MongoDB • PostgreSQL • Sequelize ORM
+
+### 🤝 Open To  
+Internships • Freelance Projects • Web App Development • Collaboration
+
+📫 **Reach Me At:**  
+📧 Email: **rameeltanveer19@gmail.com**  
+📱 WhatsApp: **+923196393269**
 
 ---
 
@@ -44,7 +51,7 @@ MongoDB • PostgreSQL • Sequelize ORM
 ### 🚀 1. Modern Portfolio Website  
 **Tech:** HTML • CSS • JavaScript  
 Clean, responsive & professional portfolio.  
-🔗 Live: https://portfolio-iota-opal-e1qd95izyn.vercel.app/  
+🔗 Live: https://portfolio-iota-opal-e1qd95izyn.vercel.app/
 
 ---
 
@@ -63,7 +70,7 @@ Reusable components & modern design.
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -80,7 +87,7 @@ Reusable components & modern design.
 </a>
 
 <a href="https://x.com/itxrameelrt" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" height="30" width="30" />
 </a>
 
 <a href="https://www.facebook.com/share/14MAfrJRMpo/" target="blank">
@@ -96,7 +103,7 @@ Reusable components & modern design.
 ---
 
 ## 🛠️ Languages & Tools  
-(pure clickable icons — already dark mode compatible)
+(All icons clickable)
 
 <p align="left">
 
