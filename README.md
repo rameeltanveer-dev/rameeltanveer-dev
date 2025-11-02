@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/9tZws9R/animated-banner.gif" alt="Rameel Tanveer Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rameel Tanveer</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
@@ -5,51 +9,61 @@
 
 ---
 
-## 🚀 Frontend | Backend | Full Stack Developer
+## 🚀 Frontend | Backend | Full Stack Developer  
 🧠 HTML5 | CSS3 | Bootstrap | JavaScript (ES6+) | TypeScript  
 ⚛️ ReactJS | NextJS | Redux Toolkit  
 🗄️ NodeJS | ExpressJS | MongoDB | PostgreSQL | Sequelize  
 🛠️ GitHub | Docker | Netlify | Vercel | CI/CD  
-✨ Passionate about coding, creativity, and building seamless digital experiences.
+✨ Passionate about coding, creativity and building seamless digital experiences.
 
 ---
 
-## 🌍 Live Portfolio
-🚀 **My Portfolio Website is Live on Vercel:**  
-🔗 https://portfolio-iota-opal-e1qd95izyn.vercel.app/  
-Explore my projects, skills, and contact details — all in one place.
+## 🌍 Live Portfolio  
+🔗 https://portfolio-iota-opal-e1qd95izyn.vercel.app/
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
+Full-Stack Developer creating clean, responsive, and high-performance applications with modern frameworks.
 
-👋 Hi, I’m **Rameel Tanveer** — a passionate **Full-Stack Developer** who loves building clean, responsive, and high-performance web applications.
+### 💻 Frontend Expertise  
+ReactJS • NextJS • JavaScript • TypeScript  
+UI/UX Focused — Smooth animations & user experiences.
 
-### 💻 Frontend Expertise:
-- HTML5, CSS3, JavaScript (ES6+), TypeScript  
-- ReactJS, NextJS  
-🎨 Focused on UI/UX & smooth digital experiences.
+### 🛠 Backend Expertise  
+NodeJS • ExpressJS • REST APIs • Authentication  
+Secure and scalable architectures.
 
-### 🛠️ Backend Expertise:
-- NodeJS, ExpressJS  
-- REST APIs, Authentication  
-⚙️ Scalable & secure backend development.
-
-### 🗄️ Databases:
-- MongoDB  
-- PostgreSQL  
-- Sequelize ORM
-
-### 🤝 Open To:
-Internships • Freelance Projects • Web App Development • Collaboration
-
-📫 **Reach Me At:**  
-📧 Email: **rameeltanveer19@gmail.com**  
-📱 WhatsApp: **+923196393269**
+### 🗄 Databases  
+MongoDB • PostgreSQL • Sequelize ORM
 
 ---
 
-## 🌐 Connect With Me
+## 📌 Featured Projects
+
+### 🚀 1. Modern Portfolio Website  
+**Tech:** HTML • CSS • JavaScript  
+Clean, responsive & professional portfolio.  
+🔗 Live: https://portfolio-iota-opal-e1qd95izyn.vercel.app/  
+
+---
+
+### ⚛️ 2. React Task Manager App  
+**Tech:** ReactJS • NodeJS • Express • MongoDB  
+CRUD, authentication & clean UI.  
+🔗 Live: (Add link)  
+🔗 GitHub: (Add repo link)
+
+---
+
+### 🛒 3. E-Commerce Product UI  
+**Tech:** ReactJS • Redux Toolkit • TailwindCSS  
+Reusable components & modern design.  
+🔗 Live: (Add link)
+
+---
+
+## 🌐 Connect With Me  
 
 <p align="left">
 
@@ -81,7 +95,8 @@ Internships • Freelance Projects • Web App Development • Collaboration
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools  
+(pure clickable icons — already dark mode compatible)
 
 <p align="left">
 
@@ -118,7 +133,7 @@ Internships • Freelance Projects • Web App Development • Collaboration
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontentusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank">
