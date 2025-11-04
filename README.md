@@ -104,7 +104,6 @@ Reusable components & modern design.
 ---
 
 ## 🛠️ Languages & Tools  
-(All icons clickable + dark-mode visible ✅)
 
 <p align="left">
 
