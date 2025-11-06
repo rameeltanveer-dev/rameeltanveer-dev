@@ -43,8 +43,8 @@ MongoDB • PostgreSQL • Sequelize ORM
 Internships • Freelance Projects • Web App Development • Collaboration
 
 📫 **Reach Me At:**  
-📧 Email: **rameeltanveer19@gmail.com**  
-📱 WhatsApp: **03196393269**
+📧 Email: **rameeltanveer25@gmail.com**  
+📱 WhatsApp: **+923196393269**
 
 ---
 
