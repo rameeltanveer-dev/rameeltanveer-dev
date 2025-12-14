@@ -4,14 +4,14 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rameel Tanveer</h1>
-<h3 align="center">A Passionate Full-Stack Developer</h3>
+<h3 align="center">A Passionate Full-Stack (MERN) Developer</h3>
 
 
 <img align="right" alt="Coding" width="350" src="https://dl.dropboxusercontent.com/scl/fi/mchan1e1zcew6ap8x1lh4/man-is-a-coder-animation-gif-download-8957689.gif?rlkey=g19o5zbei0lzo797bqshvgy2w&st=m4rid5jm">
 
 ---
 
-## 🚀 Frontend | Backend | Full Stack Developer  
+## 🚀 Frontend | Backend | Full Stack (MERN) Developer  
 🧠 HTML5 | CSS3 | Bootstrap | JavaScript (ES6+) | TypeScript  
 ⚛️ ReactJS | NextJS | Redux Toolkit  
 🗄️ NodeJS | ExpressJS | MongoDB | PostgreSQL | Sequelize  
@@ -21,8 +21,7 @@
 ---
 
 ## 🌍 Live Portfolio  
-🔗 **https://portfolio-iota-opal-e1qd95izyn.vercel.app/**
-
+🔗 **https://rameeltanveer.vercel.app/**
 ---
 
 ## 👨‍💻 About Me  
@@ -43,7 +42,7 @@ MongoDB • PostgreSQL • Sequelize ORM
 Internships • Freelance Projects • Web App Development • Collaboration
 
 📫 **Reach Me At:**  
-📧 Email: **rameeltanveer25@gmail.com**  
+📧 Email: **r.rameeltanveer@gmail.com**  
 📱 WhatsApp: **+923196393269**
 
 ---
@@ -53,7 +52,7 @@ Internships • Freelance Projects • Web App Development • Collaboration
 ### 🚀 1. Modern Portfolio Website  
 **Tech:** HTML • CSS • JavaScript  
 Clean, responsive & professional portfolio.  
-🔗 Live: https://portfolio-iota-opal-e1qd95izyn.vercel.app/
+🔗 Live: https://rameeltanveer.vercel.app/
 
 ---
 
